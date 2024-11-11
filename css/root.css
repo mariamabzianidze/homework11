@@ -1,0 +1,14 @@
+:root {
+  --color_Background_priceTxt: #1c5550;
+  --color_asideHeaderText_articleButtonBack: #c3b97f;
+  --color_headerIcon_aside_shadow: #00000033;
+  --color_asideLi: #91b599;
+  --color_headerLi_articleBack_buttonTxt: #dfd9d9;
+  --font_size24: 24px;
+  /* --font_size18: 18px;  რას ჰქონდა ეს ზომა ვერ მივხვდი,ჩამონათვალში იყო*/
+  --font_size16: 16px;
+  --font_size14: 14px;
+  --border_radius: 4px;
+  --font_type: bold;
+  /* ბოლდი ზუსტად ვერ მივხვდი სად უნდა გამომეყენებინა და არ ვიცი რამდენად სწორია */
+}
